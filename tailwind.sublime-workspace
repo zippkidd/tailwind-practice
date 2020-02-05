@@ -1,0 +1,387 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"formGroupE",
+				"formGroupErrorBlock"
+			],
+			[
+				"showE",
+				"showErrorsForInput"
+			],
+			[
+				"tr",
+				"translateY()\ttransform"
+			],
+			[
+				"tran",
+				"translate()\ttransform"
+			],
+			[
+				"mobil",
+				"mobile-header-cta"
+			],
+			[
+				"col",
+				"column-reverse\tflex-direction"
+			],
+			[
+				"grid-temp",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"border-bot",
+				"border-bottom-width\tproperty"
+			],
+			[
+				"font",
+				"font-style\tproperty"
+			],
+			[
+				"XMLT",
+				"XMLHttpRequest"
+			],
+			[
+				"XML",
+				"XMLHttpRequest"
+			],
+			[
+				"translate",
+				"translateY()\ttransform"
+			],
+			[
+				"translat",
+				"translateY()\ttransform"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"border-le",
+				"border-left-color\tproperty"
+			],
+			[
+				"over",
+				"overflow-x\tproperty"
+			],
+			[
+				"getEle",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"carou",
+				"carousel_library"
+			],
+			[
+				"handleMOuse",
+				"handleMouseUp"
+			],
+			[
+				"dragSt",
+				"dragStartLeft"
+			],
+			[
+				"dragSTart",
+				"dragStartTop"
+			],
+			[
+				"handleMove",
+				"handleMoveStart"
+			],
+			[
+				"controls",
+				"controlsLeft"
+			],
+			[
+				"letterSpaci",
+				"letterSpacing"
+			],
+			[
+				"handle",
+				"handleTextChange"
+			],
+			[
+				"hal",
+				"handleTextChange"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packa rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"apach",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"settin",
+				"Preferences: Settings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"jsh",
+				"JSHint"
+			],
+			[
+				"subl",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"sul",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"js",
+				"JSHint"
+			],
+			[
+				"j",
+				"Build With: JSHint"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"jh",
+				"JSHint"
+			],
+			[
+				"activa",
+				"ayu: Activate theme"
+			],
+			[
+				"install packag",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/kuba/Practice/tailwind-practice"
+	],
+	"file_history":
+	[
+		"/home/kuba/Portfolio/portfolio/README.md",
+		"/home/kuba/Work/gabriele-baldocci/site/dev/app/public/wp-content/themes/londonpianocentre/js/validate.min.js",
+		"/home/kuba/Work/gabriele-baldocci/site/dev/app/public/wp-content/themes/londonpianocentre/unprefixed-style.css",
+		"/home/kuba/Work/gabriele-baldocci/site/dev/app/public/wp-content/themes/londonpianocentre/header.php",
+		"/home/kuba/Work/gabriele-baldocci/site/dev/app/public/wp-content/themes/londonpianocentre/js/carousel.js",
+		"/home/kuba/Work/gabriele-baldocci/site/dev/app/public/wp-content/themes/londonpianocentre/index.php",
+		"/home/kuba/Work/gabriele-baldocci/site/dev/app/public/wp-content/themes/londonpianocentre/front-page.php",
+		"/home/kuba/Work/gabriele-baldocci/site/dev/app/public/wp-content/themes/londonpianocentre/free-images-list.md",
+		"/home/kuba/Work/gabriele-baldocci/site/dev/app/public/wp-content/themes/londonpianocentre/normalize.css",
+		"/tmp/fz3temp-2/functions.php",
+		"/home/kuba/Work/gabriele-baldocci/site/dev/app/public/wp-content/themes/londonpianocentre/footer-home.php",
+		"/home/kuba/Work/gabriele-baldocci/site/dev/app/public/wp-content/themes/londonpianocentre/teacher.php",
+		"/home/kuba/Work/gabriele-baldocci/site/dev/app/public/wp-content/themes/londonpianocentre/inc/core/class-astra-admin-settings.php",
+		"/home/kuba/Work/gabriele-baldocci/site/dev/app/public/wp-content/themes/londonpianocentre/assets/images/svg.html",
+		"/home/kuba/Work/gabriele-baldocci/site/dev/app/public/wp-content/themes/londonpianocentre/js/contact-form.js",
+		"/home/kuba/Work/gabriele-baldocci/site/dev/app/public/wp-content/themes/londonpianocentre/custom-page.php",
+		"/home/kuba/Work/gabriele-baldocci/site/dev/app/public/wp-content/themes/londonpianocentre/secrets.txt",
+		"/home/kuba/Downloads/firefox-downloads/prosper.htaccess",
+		"/home/kuba/Work/gabriele-baldocci/site/dev/app/public/wp-content/themes/londonpianocentre/functions.php",
+		"/home/kuba/Work/gabriele-baldocci/site/dev/app/public/wp-content/themes/londonpianocentre/js/siema.min.js",
+		"/home/kuba/Work/gabriele-baldocci/site/dev/app/public/wp-content/themes/londonpianocentre/inc/core/common-functions.php",
+		"/home/kuba/Work/gabriele-baldocci/site/dev/app/public/wp-content/themes/londonpianocentre/logo.svg",
+		"/home/kuba/Work/gabriele-baldocci/site/dev/app/public/wp-content/themes/londonpianocentre/londonpianocentre-theme.sublime-project",
+		"/home/kuba/Practice/drag-drop/src/App.css",
+		"/home/kuba/Practice/drag-drop/src/App.js",
+		"/home/kuba/Practice/woah-react-app/src/index.css",
+		"/home/kuba/Practice/test/script.js",
+		"/home/kuba/Practice/woah-react-app/src/App.js",
+		"/home/kuba/Practice/woah/script.js"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 149.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/home/kuba/Practice/tailwind-practice"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 59.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 168.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 345.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 1396.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 283.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
